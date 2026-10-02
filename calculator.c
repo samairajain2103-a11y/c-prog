@@ -32,6 +32,7 @@ int main()
         default:
             printf("Invalid choice.\n");
     }
+    printf("Samaira Jain S2-46");
     return 0;
 
 }
